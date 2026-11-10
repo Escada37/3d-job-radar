@@ -1,0 +1,27 @@
+name: Подключить Telegram
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  connect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Отправить идентификатор в личный чат
+        env:
+          BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: |
+          node <<'NODE'
+          (async () => {
+            try {
+              const base = 'https://api.telegram.org/bot' + process.env.BOT_TOKEN + '/';
+              const updates = await fetch(base + 'getUpdates').then(r => r.json());
+              if (!updates.ok) throw new Error();
+              const ids = [...new Set(updates.result.map(x => x.message?.chat).filter(x => x?.type === 'private').map(x => x.id))];
+              if (ids.length !== 1) { console.log('Не найден ровно один личный чат.'); process.exitCode=1; return; }
+              const response = await fetch(base + 'sendMessage', {method:'POST', headers:{'content-type':'application/json'}, body:JSON.stringify({chat_id:ids[0], text:'Для подключения 3D Job Radar твой идентификатор чата: ' + ids[0] + '. Добавь его в секрет GitHub TELEGRAM_CHAT_ID.'})}).then(r=>r.json());
+              if (!response.ok) throw new Error();
+              console.log('Сообщение отправлено.');
+            } catch { console.log('Не удалось выполнить проверку Telegram.'); process.exitCode=1; }
+          })();
+          NODE
