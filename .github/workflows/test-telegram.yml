@@ -1,0 +1,24 @@
+name: Проверить уведомления
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Отправить тестовое сообщение
+        env:
+          BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          node <<'NODE'
+          (async () => {
+            try {
+              const res = await fetch('https://api.telegram.org/bot' + process.env.BOT_TOKEN + '/sendMessage', {method:'POST', headers:{'content-type':'application/json'}, body:JSON.stringify({chat_id:process.env.CHAT_ID, text:'3D Job Radar: проверка уведомлений прошла успешно! Здесь будут появляться новые вакансии.'})});
+              const data = await res.json();
+              if (!res.ok || !data.ok) throw new Error();
+              console.log('Telegram подтвердил отправку.');
+            } catch { console.log('Не удалось отправить сообщение. Проверьте настройки.'); process.exitCode=1; }
+          })();
+          NODE
