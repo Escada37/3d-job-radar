@@ -30,11 +30,15 @@ for(const channel of config.channels){
 for(const old of previous.jobs||[]) if(errors.some(e=>e.source===old.company)&&!jobs.some(j=>j.id===old.id))jobs.push({...old,stale:true});
 jobs.sort((a,b)=>(b.updated||'').localeCompare(a.updated||''));
 const known=new Set(previous.notified||[]),token=process.env.TELEGRAM_BOT_TOKEN,chat=process.env.TELEGRAM_CHAT_ID;
+// A newly added source starts with a baseline; only later posts trigger alerts.
+const oldSources = new Set(previous.sources || []);
+for (const job of jobs) if (!oldSources.has(job.company) && !job.stale) known.add(job.id);
+const initializedSources = config.channels.filter(c => oldSources.has(c) || !errors.some(e => e.source === c));
 let notificationError=null;
 if(previous.initialized && token && chat){
  for(const job of jobs.filter(j=>!known.has(j.id)&&!j.stale).slice(0,50)){
   try{const res=await fetch(`https://api.telegram.org/bot${token}/sendMessage`,{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({chat_id:chat,text:`Новая вакансия: ${job.title}\nИсточник: ${job.company}\n${job.hints.join(' · ')}\n${job.url}`,disable_web_page_preview:true}),signal:AbortSignal.timeout(15000)});const d=await res.json();if(!res.ok||!d.ok)throw Error();known.add(job.id)}catch{notificationError='Не удалось отправить уведомление. Проверьте секреты и журнал запуска.';break}
  }
 }else if(!previous.initialized){for(const job of jobs)known.add(job.id)}
-await writeFile(file,JSON.stringify({updatedAt:new Date().toISOString(),initialized:true,sources:config.channels,errors,notificationError,jobs:jobs.slice(0,config.maxResults),notified:[...known].slice(-5000)},null,2)+'\n');
+await writeFile(file,JSON.stringify({updatedAt:new Date().toISOString(),initialized:true,sources:initializedSources,errors,notificationError,jobs:jobs.slice(0,config.maxResults),notified:[...known].slice(-5000)},null,2)+'\n');
 console.log(`Найдено: ${jobs.length}; ошибок источников: ${errors.length}; уведомления: ${notificationError||(token&&chat?'включены':'не настроены')}`);
