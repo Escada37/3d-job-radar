@@ -1,15 +1,142 @@
 {
-  "updatedAt": "2026-11-10T17:10:08.512Z",
+  "updatedAt": "2026-11-10T17:31:19.125Z",
   "initialized": true,
   "sources": [
     "artisthh",
     "job_gamedev",
     "rabota_v_gamedeve",
-    "artistsvacancies"
+    "artistsvacancies",
+    "remotegeekjob",
+    "gamedevjobs",
+    "remotejun",
+    "remoteit",
+    "cgfreelance",
+    "gdjobs",
+    "devzonegd",
+    "forgamedev",
+    "ingamejob_art",
+    "game_dev_jobs",
+    "gamedevjob",
+    "gamedev_and_tech_vacancy",
+    "young_gamedev",
+    "works_gamedev",
+    "animator_modeller_2d_3d_job",
+    "people_it",
+    "cg_worker",
+    "gamemetrics",
+    "workingamedev",
+    "devjobs",
+    "jobs_cg",
+    "gamedev_vakansii"
   ],
   "errors": [],
   "notificationError": null,
   "jobs": [
+    {
+      "id": "telegram:cgfreelance/20879",
+      "title": "🎨 3D Artist | Stylized Characters & Props | Hand-Painted",
+      "company": "cgfreelance",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cgfreelance/20879",
+      "updated": "2026-11-10T17:27:11+00:00",
+      "hints": [
+        "Стилизация",
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:gdjobs/3034",
+      "title": "🎨 Вакансии геймдев-художников — OfferClaw",
+      "company": "gdjobs",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/gdjobs/3034",
+      "updated": "2026-11-10T14:42:34+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:cgfreelance/20875",
+      "title": "Environment / Cinematic Artist",
+      "company": "cgfreelance",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cgfreelance/20875",
+      "updated": "2026-11-10T13:35:32+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:cgfreelance/20870",
+      "title": "3D Environment / Level Artist",
+      "company": "cgfreelance",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cgfreelance/20870",
+      "updated": "2026-11-10T12:49:18+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:devjobs/12631",
+      "title": "Я - Senior 2D & Character Artist | Visual Development | Hands-on Art Lead",
+      "company": "devjobs",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/devjobs/12631",
+      "updated": "2026-11-10T12:33:38+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:cgfreelance/20869",
+      "title": "Ищем Stylized Environment / Vegetation Artist (ZBrush + Texturing)",
+      "company": "cgfreelance",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cgfreelance/20869",
+      "updated": "2026-11-10T12:27:15+00:00",
+      "hints": [
+        "Стилизация"
+      ]
+    },
+    {
+      "id": "telegram:DevZoneGD/3928",
+      "title": "Команда, работающая над MMO с открытым миром в сеттинге эпохи паруса, усиливает арт-направление и ищет Middle 3D художника.",
+      "company": "devzonegd",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/DevZoneGD/3928",
+      "updated": "2026-11-10T10:01:30+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:cgfreelance/20866",
+      "title": "Привет! Я — 2D Animator | Motion Designer | AI Creative Artist .",
+      "company": "cgfreelance",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cgfreelance/20866",
+      "updated": "2026-11-10T09:43:35+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:Game_Dev_jobs/4027",
+      "title": "Команда, работающая над MMO с открытым миром в сеттинге эпохи паруса, усиливает арт-направление и ищет Middle 3D художника.",
+      "company": "game_dev_jobs",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/Game_Dev_jobs/4027",
+      "updated": "2026-11-09T20:27:02+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:devjobs/12629",
+      "title": "Команда, работающая над MMO с открытым миром в сеттинге эпохи паруса, усиливает арт-направление и ищет Middle 3D художника.",
+      "company": "devjobs",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/devjobs/12629",
+      "updated": "2026-11-09T15:13:18+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
     {
       "id": "telegram:rabota_v_gamedeve/10288",
       "title": "Команда, работающая над MMO с открытым миром в сеттинге эпохи паруса, усиливает арт-направление и ищет Middle 3D художника.",
@@ -18,6 +145,49 @@
       "url": "https://t.me/rabota_v_gamedeve/10288",
       "updated": "2026-11-09T15:00:51+00:00",
       "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:DevZoneGD/3925",
+      "title": "Вакансия: 3D-моделер",
+      "company": "devzonegd",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/DevZoneGD/3925",
+      "updated": "2026-11-09T14:03:26+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:cgfreelance/20857",
+      "title": "🎨 2D Artist | Illustrator",
+      "company": "cgfreelance",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cgfreelance/20857",
+      "updated": "2026-11-09T13:34:34+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:jobs_cg/1268",
+      "title": "🎬 3D Animator (Blender)",
+      "company": "jobs_cg",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/jobs_cg/1268",
+      "updated": "2026-11-09T06:21:35+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:DevZoneGD/3913",
+      "title": "Вакансия: 2D Artist",
+      "company": "devzonegd",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/DevZoneGD/3913",
+      "updated": "2026-11-07T14:02:28+00:00",
+      "hints": [
+        "Стилизация",
         "Упоминается удалённая работа"
       ]
     },
@@ -33,6 +203,289 @@
       ]
     },
     {
+      "id": "telegram:Game_Dev_jobs/4024",
+      "title": "• Финальная сборка — ИИ-агенты превратили концепты в игровые 3D-сцены, а сам разраб тестил результат.",
+      "company": "game_dev_jobs",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/Game_Dev_jobs/4024",
+      "updated": "2026-11-05T20:27:05+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:devjobs/12626",
+      "title": "• Финальная сборка — ИИ-агенты превратили концепты в игровые 3D-сцены, а сам разраб тестил результат.",
+      "company": "devjobs",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/devjobs/12626",
+      "updated": "2026-11-05T18:43:43+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:cg_worker/887",
+      "title": "3D-модельер",
+      "company": "cg_worker",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cg_worker/887",
+      "updated": "2026-11-05T15:41:14+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:ingamejob_art/15745",
+      "title": "Lead Level Artist (Values Value) Remote",
+      "company": "ingamejob_art",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/ingamejob_art/15745",
+      "updated": "2026-11-05T13:00:24+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:Game_Dev_jobs/4023",
+      "title": "2D ARTIST",
+      "company": "game_dev_jobs",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/Game_Dev_jobs/4023",
+      "updated": "2026-11-05T12:29:02+00:00",
+      "hints": [
+        "Стилизация"
+      ]
+    },
+    {
+      "id": "telegram:devjobs/12623",
+      "title": "2D ARTIST",
+      "company": "devjobs",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/devjobs/12623",
+      "updated": "2026-11-05T11:02:51+00:00",
+      "hints": [
+        "Стилизация"
+      ]
+    },
+    {
+      "id": "telegram:GameDev_and_Tech_vacancy/2435",
+      "title": "2D ARTIST",
+      "company": "gamedev_and_tech_vacancy",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/GameDev_and_Tech_vacancy/2435",
+      "updated": "2026-11-05T10:19:19+00:00",
+      "hints": [
+        "Стилизация"
+      ]
+    },
+    {
+      "id": "telegram:Game_Dev_jobs/4020",
+      "title": "🚀 2D Character Artist",
+      "company": "game_dev_jobs",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/Game_Dev_jobs/4020",
+      "updated": "2026-11-04T20:28:02+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:gamemetrics/342",
+      "title": "📎 2D Artist, Betsoft",
+      "company": "gamemetrics",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/gamemetrics/342",
+      "updated": "2026-11-04T13:23:59+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:devjobs/12620",
+      "title": "🚀 2D Character Artist",
+      "company": "devjobs",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/devjobs/12620",
+      "updated": "2026-11-04T07:49:36+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:works_gamedev/9585",
+      "title": "Вакансия для 3D-художника",
+      "company": "works_gamedev",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/works_gamedev/9585",
+      "updated": "2026-11-03T20:59:22+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:devjobs/12617",
+      "title": "🚀 2D Character Artist",
+      "company": "devjobs",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/devjobs/12617",
+      "updated": "2026-11-02T14:54:07+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:gamedevjob/5112",
+      "title": "Будем рады вашим откликам в Notion-форме: https://equal-find-e69.notion.site/3df9fc92558280efb74bc8d99d88001d?pvs=105",
+      "company": "gamedevjob",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/gamedevjob/5112",
+      "updated": "2026-11-02T10:03:39+00:00",
+      "hints": [
+        "Стилизация"
+      ]
+    },
+    {
+      "id": "telegram:young_gamedev/1319",
+      "title": "Senior Technical Artist (Unity) / Sakura Games ⚡️",
+      "company": "young_gamedev",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/young_gamedev/1319",
+      "updated": "2026-11-02T07:04:41+00:00",
+      "hints": [
+        "Стилизация",
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:gamemetrics/329",
+      "title": "📎 Ui/2d artist, joyteractive",
+      "company": "gamemetrics",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/gamemetrics/329",
+      "updated": "2026-10-28T16:55:38+00:00",
+      "hints": [
+        "Стилизация"
+      ]
+    },
+    {
+      "id": "telegram:gamedevjob/5111",
+      "title": "🎮 Ищем Senior 3D Artist | Interiors | GTA 5",
+      "company": "gamedevjob",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/gamedevjob/5111",
+      "updated": "2026-10-28T12:41:47+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:gamedevjob/5108",
+      "title": "Ищем Unreal Engine Level / Environment Artist (Generalist)",
+      "company": "gamedevjob",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/gamedevjob/5108",
+      "updated": "2026-10-27T09:39:44+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:gamemetrics/328",
+      "title": "📎 2D game artist, igaming",
+      "company": "gamemetrics",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/gamemetrics/328",
+      "updated": "2026-10-21T16:06:23+00:00",
+      "hints": [
+        "Стилизация",
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:gamedevjob/5099",
+      "title": "🎨 Ведущий 3D-художник (персонажи, окружение, пропсы)",
+      "company": "gamedevjob",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/gamedevjob/5099",
+      "updated": "2026-10-21T08:13:42+00:00",
+      "hints": [
+        "Стилизация",
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:gamedevjob/5096",
+      "title": "📌 Ищем Level 3D Artist’а",
+      "company": "gamedevjob",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/gamedevjob/5096",
+      "updated": "2026-10-20T11:15:22+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:animator_modeller_2d_3d_job/765",
+      "title": "👤 РЕЗЮМЕ: Senior 3D Artist",
+      "company": "animator_modeller_2d_3d_job",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/animator_modeller_2d_3d_job/765",
+      "updated": "2026-10-19T10:10:10+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:gamedevjob/5092",
+      "title": "🔥 Middle Concept Artist 🔥",
+      "company": "gamedevjob",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/gamedevjob/5092",
+      "updated": "2026-10-19T08:32:05+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:cg_worker/881",
+      "title": "🎬 Compositing Artist",
+      "company": "cg_worker",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cg_worker/881",
+      "updated": "2026-09-29T13:39:02+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:jobs_cg/1247",
+      "title": "3D Animator / Generalist (Blender)",
+      "company": "jobs_cg",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/jobs_cg/1247",
+      "updated": "2026-09-27T13:26:01+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:cg_worker/880",
+      "title": "ИЩЕМ 3D-СПЕЦИАЛИСТОВ В КОМАНДУ",
+      "company": "cg_worker",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cg_worker/880",
+      "updated": "2026-09-24T08:27:02+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:cg_worker/878",
+      "title": "3D Animator / Generalist",
+      "company": "cg_worker",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cg_worker/878",
+      "updated": "2026-09-22T10:06:02+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:cg_worker/872",
+      "title": "🎬 Compositing Artist",
+      "company": "cg_worker",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cg_worker/872",
+      "updated": "2026-09-15T06:11:02+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:cg_worker/870",
+      "title": "3D Animator / Generalist",
+      "company": "cg_worker",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cg_worker/870",
+      "updated": "2026-09-13T10:00:34+00:00",
+      "hints": []
+    },
+    {
       "id": "telegram:artisthh/1205",
       "title": "3D VFX Artist",
       "company": "artisthh",
@@ -41,6 +494,17 @@
       "updated": "2026-09-08T15:08:53+00:00",
       "hints": [
         "Стилизация",
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:cg_worker/866",
+      "title": "🎬 Compositing Artist",
+      "company": "cg_worker",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cg_worker/866",
+      "updated": "2026-08-26T15:49:13+00:00",
+      "hints": [
         "Упоминается удалённая работа"
       ]
     },
@@ -68,6 +532,17 @@
       ]
     },
     {
+      "id": "telegram:workingamedev/141",
+      "title": "🚀 Ищем 3D Animator (разовый проект)",
+      "company": "workingamedev",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/workingamedev/141",
+      "updated": "2026-07-22T14:41:44+00:00",
+      "hints": [
+        "Стилизация"
+      ]
+    },
+    {
       "id": "telegram:artisthh/1190",
       "title": "Ищем 3D Artist / 3D Generalist для доработки LowPoly окружения",
       "company": "artisthh",
@@ -91,6 +566,17 @@
       ]
     },
     {
+      "id": "telegram:animator_modeller_2d_3d_job/762",
+      "title": "💼 ВАКАНСИЯ: 3D Generalist / CG Generalist / 3D Motion Designer / 3D Animator",
+      "company": "animator_modeller_2d_3d_job",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/animator_modeller_2d_3d_job/762",
+      "updated": "2026-04-20T06:12:35+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
       "id": "telegram:job_gamedev/317",
       "title": "Студия Digital Forms расширяет свою команду и открывает вакансию Middle/Senior 3D Character Artist( реализм).",
       "company": "job_gamedev",
@@ -98,6 +584,28 @@
       "url": "https://t.me/job_gamedev/317",
       "updated": "2026-03-12T08:06:57+00:00",
       "hints": []
+    },
+    {
+      "id": "telegram:animator_modeller_2d_3d_job/758",
+      "title": "💼 ВАКАНСИЯ: 3D Художник",
+      "company": "animator_modeller_2d_3d_job",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/animator_modeller_2d_3d_job/758",
+      "updated": "2026-03-05T07:36:14+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:workingamedev/135",
+      "title": "#вакансия #удаленка #leadintegrator #unity #gamedev #technicalartist #3D #itjobs #глобально",
+      "company": "workingamedev",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/workingamedev/135",
+      "updated": "2026-02-10T16:10:41+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
     },
     {
       "id": "telegram:job_gamedev/312",
@@ -210,6 +718,53 @@
     "telegram:artistsvacancies/76",
     "telegram:artistsvacancies/73",
     "telegram:artistsvacancies/63",
-    "telegram:artistsvacancies/58"
+    "telegram:artistsvacancies/58",
+    "telegram:cgfreelance/20879",
+    "telegram:gdjobs/3034",
+    "telegram:cgfreelance/20875",
+    "telegram:cgfreelance/20870",
+    "telegram:devjobs/12631",
+    "telegram:cgfreelance/20869",
+    "telegram:DevZoneGD/3928",
+    "telegram:cgfreelance/20866",
+    "telegram:Game_Dev_jobs/4027",
+    "telegram:devjobs/12629",
+    "telegram:DevZoneGD/3925",
+    "telegram:cgfreelance/20857",
+    "telegram:jobs_cg/1268",
+    "telegram:DevZoneGD/3913",
+    "telegram:Game_Dev_jobs/4024",
+    "telegram:devjobs/12626",
+    "telegram:cg_worker/887",
+    "telegram:ingamejob_art/15745",
+    "telegram:Game_Dev_jobs/4023",
+    "telegram:devjobs/12623",
+    "telegram:GameDev_and_Tech_vacancy/2435",
+    "telegram:Game_Dev_jobs/4020",
+    "telegram:gamemetrics/342",
+    "telegram:devjobs/12620",
+    "telegram:works_gamedev/9585",
+    "telegram:devjobs/12617",
+    "telegram:gamedevjob/5112",
+    "telegram:young_gamedev/1319",
+    "telegram:gamemetrics/329",
+    "telegram:gamedevjob/5111",
+    "telegram:gamedevjob/5108",
+    "telegram:gamemetrics/328",
+    "telegram:gamedevjob/5099",
+    "telegram:gamedevjob/5096",
+    "telegram:animator_modeller_2d_3d_job/765",
+    "telegram:gamedevjob/5092",
+    "telegram:cg_worker/881",
+    "telegram:jobs_cg/1247",
+    "telegram:cg_worker/880",
+    "telegram:cg_worker/878",
+    "telegram:cg_worker/872",
+    "telegram:cg_worker/870",
+    "telegram:cg_worker/866",
+    "telegram:workingamedev/141",
+    "telegram:animator_modeller_2d_3d_job/762",
+    "telegram:animator_modeller_2d_3d_job/758",
+    "telegram:workingamedev/135"
   ]
 }
