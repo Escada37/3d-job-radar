@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T17:31:19.125Z",
+  "updatedAt": "2026-11-10T21:17:40.908Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -32,6 +32,17 @@
   "errors": [],
   "notificationError": null,
   "jobs": [
+    {
+      "id": "telegram:Game_Dev_jobs/4029",
+      "title": "Я - Senior 2D & Character Artist | Visual Development | Hands-on Art Lead",
+      "company": "game_dev_jobs",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/Game_Dev_jobs/4029",
+      "updated": "2026-11-10T20:27:02+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
     {
       "id": "telegram:cgfreelance/20879",
       "title": "🎨 3D Artist | Stylized Characters & Props | Hand-Painted",
@@ -765,6 +776,7 @@
     "telegram:workingamedev/141",
     "telegram:animator_modeller_2d_3d_job/762",
     "telegram:animator_modeller_2d_3d_job/758",
-    "telegram:workingamedev/135"
+    "telegram:workingamedev/135",
+    "telegram:Game_Dev_jobs/4029"
   ]
 }
