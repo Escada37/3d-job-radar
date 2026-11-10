@@ -1,0 +1,107 @@
+{
+  "updatedAt": "2026-11-10T14:23:33.405Z",
+  "initialized": true,
+  "sources": [
+    "riotgames",
+    "epicgames",
+    "bungie",
+    "scopely",
+    "roblox"
+  ],
+  "errors": [],
+  "notificationError": null,
+  "jobs": [
+    {
+      "id": "greenhouse:epicgames:6224462004",
+      "title": "Senior Character Artist",
+      "company": "epicgames",
+      "location": "Cary,North Carolina,United States",
+      "url": "https://epicgames.com/careers/jobs/6224462004?gh_jid=6224462004",
+      "updated": "2026-11-05T19:10:48-05:00",
+      "hints": [
+        "Стилизация"
+      ]
+    },
+    {
+      "id": "greenhouse:epicgames:6224464004",
+      "title": "Senior Character Artist",
+      "company": "epicgames",
+      "location": "BLANK,BLANK,Multiple Locations",
+      "url": "https://epicgames.com/careers/jobs/6224464004?gh_jid=6224464004",
+      "updated": "2026-11-05T19:10:46-05:00",
+      "hints": [
+        "Стилизация"
+      ]
+    },
+    {
+      "id": "greenhouse:riotgames:8163170",
+      "title": "Principal 3D Character Artist - Unpublished R&D Product",
+      "company": "riotgames",
+      "location": "Los Angeles, USA",
+      "url": "https://www.riotgames.com/en/work-with-us/job/8163170?gh_jid=8163170",
+      "updated": "2026-10-30T09:29:42-04:00",
+      "hints": []
+    },
+    {
+      "id": "greenhouse:riotgames:8279690",
+      "title": "3D Character Artist - Unpublished R&D Product",
+      "company": "riotgames",
+      "location": "Shanghai, China",
+      "url": "https://www.riotgames.com/en/work-with-us/job/8279690?gh_jid=8279690",
+      "updated": "2026-10-30T09:01:52-04:00",
+      "hints": [
+        "Стилизация"
+      ]
+    },
+    {
+      "id": "greenhouse:epicgames:6142982004",
+      "title": "Hard Surface Outsource Lead",
+      "company": "epicgames",
+      "location": "BLANK,BLANK,Multiple Locations",
+      "url": "https://epicgames.com/careers/jobs/6142982004?gh_jid=6142982004",
+      "updated": "2026-10-30T08:52:34-04:00",
+      "hints": [
+        "Упоминается Россия"
+      ]
+    },
+    {
+      "id": "greenhouse:epicgames:6142980004",
+      "title": "Hard Surface Outsource Lead",
+      "company": "epicgames",
+      "location": "Cary,North Carolina,United States",
+      "url": "https://epicgames.com/careers/jobs/6142980004?gh_jid=6142980004",
+      "updated": "2026-10-30T08:52:34-04:00",
+      "hints": [
+        "Упоминается Россия"
+      ]
+    },
+    {
+      "id": "greenhouse:riotgames:7271195",
+      "title": "3D Environment Artist - Unpublished R&D Product (Contract)",
+      "company": "riotgames",
+      "location": "Guangzhou, China",
+      "url": "https://www.riotgames.com/en/work-with-us/job/7271195?gh_jid=7271195",
+      "updated": "2026-10-23T04:50:44-04:00",
+      "hints": []
+    },
+    {
+      "id": "greenhouse:riotgames:8282210",
+      "title": "3D Character Artist (Contract)",
+      "company": "riotgames",
+      "location": "Guangzhou, China",
+      "url": "https://www.riotgames.com/en/work-with-us/job/8282210?gh_jid=8282210",
+      "updated": "2026-10-15T05:28:20-04:00",
+      "hints": []
+    }
+  ],
+  "notified": [
+    "greenhouse:epicgames:6224462004",
+    "greenhouse:epicgames:6224464004",
+    "greenhouse:riotgames:8163170",
+    "greenhouse:riotgames:8279690",
+    "greenhouse:epicgames:6142982004",
+    "greenhouse:epicgames:6142980004",
+    "greenhouse:riotgames:7271195",
+    "greenhouse:riotgames:8282210"
+  ]
+}
