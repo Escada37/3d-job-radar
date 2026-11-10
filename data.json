@@ -1,97 +1,189 @@
 {
-  "updatedAt": "2026-11-10T14:47:25.187Z",
+  "updatedAt": "2026-11-10T16:48:11.658Z",
   "initialized": true,
   "sources": [
-    "riotgames",
-    "epicgames",
-    "bungie",
-    "scopely",
-    "roblox"
+    "artisthh",
+    "job_gamedev",
+    "rabota_v_gamedeve",
+    "artistsvacancies"
   ],
   "errors": [],
   "notificationError": null,
   "jobs": [
     {
-      "id": "greenhouse:epicgames:6224462004",
-      "title": "Senior Character Artist",
-      "company": "epicgames",
-      "location": "Cary,North Carolina,United States",
-      "url": "https://epicgames.com/careers/jobs/6224462004?gh_jid=6224462004",
-      "updated": "2026-11-05T19:10:48-05:00",
+      "id": "telegram:rabota_v_gamedeve/10288",
+      "title": "Команда, работающая над MMO с открытым миром в сеттинге эпохи паруса, усиливает арт-направление и ищет Middle 3D художника.",
+      "company": "rabota_v_gamedeve",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/rabota_v_gamedeve/10288",
+      "updated": "2026-11-09T15:00:51+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:rabota_v_gamedeve/10280",
+      "title": "Вакансия: 3D-моделер",
+      "company": "rabota_v_gamedeve",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/rabota_v_gamedeve/10280",
+      "updated": "2026-11-07T12:07:20+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:artisthh/1205",
+      "title": "3D VFX Artist",
+      "company": "artisthh",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/artisthh/1205",
+      "updated": "2026-09-08T15:08:53+00:00",
+      "hints": [
+        "Стилизация",
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:artisthh/1196",
+      "title": "Вакансия: 3D Animator (Middle / Senior)",
+      "company": "artisthh",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/artisthh/1196",
+      "updated": "2026-08-05T12:47:03+00:00",
+      "hints": [
+        "Стилизация",
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:artisthh/1195",
+      "title": "Концепт-художник по персонажам и костюмам",
+      "company": "artisthh",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/artisthh/1195",
+      "updated": "2026-08-04T11:15:41+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:artisthh/1190",
+      "title": "Ищем 3D Artist / 3D Generalist для доработки LowPoly окружения",
+      "company": "artisthh",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/artisthh/1190",
+      "updated": "2026-05-26T13:47:01+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:artisthh/1188",
+      "title": "3D Artist (Casual / Stylized)",
+      "company": "artisthh",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/artisthh/1188",
+      "updated": "2026-05-22T14:51:26+00:00",
+      "hints": [
+        "Стилизация",
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:job_gamedev/317",
+      "title": "Студия Digital Forms расширяет свою команду и открывает вакансию Middle/Senior 3D Character Artist( реализм).",
+      "company": "job_gamedev",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/job_gamedev/317",
+      "updated": "2026-03-12T08:06:57+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:job_gamedev/312",
+      "title": "Студия Digital Forms расширяет свою команду и открывает вакансию 3D Environment Artist",
+      "company": "job_gamedev",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/job_gamedev/312",
+      "updated": "2025-10-31T08:47:14+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:job_gamedev/311",
+      "title": "Вакансия для 3D-художника",
+      "company": "job_gamedev",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/job_gamedev/311",
+      "updated": "2025-10-15T14:21:27+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:job_gamedev/310",
+      "title": "Инди Студия Charge расширяет свою команду и приглашает 3D Artist, 2D Artist, Sound Producer",
+      "company": "job_gamedev",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/job_gamedev/310",
+      "updated": "2025-10-07T06:18:52+00:00",
       "hints": [
         "Стилизация"
       ]
     },
     {
-      "id": "greenhouse:epicgames:6224464004",
-      "title": "Senior Character Artist",
-      "company": "epicgames",
-      "location": "BLANK,BLANK,Multiple Locations",
-      "url": "https://epicgames.com/careers/jobs/6224464004?gh_jid=6224464004",
-      "updated": "2026-11-05T19:10:46-05:00",
+      "id": "telegram:job_gamedev/307",
+      "title": "#vacancy #job #playable #remote #hypercore #casual #adsdeveloper #gamejobs #2Dartist #3Dartist #геймдев #вакансия #плейбл",
+      "company": "job_gamedev",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/job_gamedev/307",
+      "updated": "2025-07-10T10:41:40+00:00",
       "hints": [
-        "Стилизация"
+        "Стилизация",
+        "Упоминается удалённая работа"
       ]
     },
     {
-      "id": "greenhouse:riotgames:8163170",
-      "title": "Principal 3D Character Artist - Unpublished R&D Product",
-      "company": "riotgames",
-      "location": "Los Angeles, USA",
-      "url": "https://www.riotgames.com/en/work-with-us/job/8163170?gh_jid=8163170",
-      "updated": "2026-10-30T09:29:42-04:00",
-      "hints": []
-    },
-    {
-      "id": "greenhouse:riotgames:8279690",
-      "title": "3D Character Artist - Unpublished R&D Product",
-      "company": "riotgames",
-      "location": "Shanghai, China",
-      "url": "https://www.riotgames.com/en/work-with-us/job/8279690?gh_jid=8279690",
-      "updated": "2026-10-30T09:01:52-04:00",
+      "id": "telegram:artistsvacancies/76",
+      "title": "Belka Games ищут Senior 3D Environment artist",
+      "company": "artistsvacancies",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/artistsvacancies/76",
+      "updated": "2024-11-27T16:29:44+00:00",
       "hints": [
-        "Стилизация"
+        "Стилизация",
+        "Упоминается удалённая работа"
       ]
     },
     {
-      "id": "greenhouse:epicgames:6142982004",
-      "title": "Hard Surface Outsource Lead",
-      "company": "epicgames",
-      "location": "BLANK,BLANK,Multiple Locations",
-      "url": "https://epicgames.com/careers/jobs/6142982004?gh_jid=6142982004",
-      "updated": "2026-10-30T08:52:34-04:00",
+      "id": "telegram:artistsvacancies/73",
+      "title": "Mirkside team ищут 3d artist",
+      "company": "artistsvacancies",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/artistsvacancies/73",
+      "updated": "2024-09-27T15:46:15+00:00",
       "hints": [
-        "Упоминается Россия"
+        "Упоминается удалённая работа"
       ]
     },
     {
-      "id": "greenhouse:epicgames:6142980004",
-      "title": "Hard Surface Outsource Lead",
-      "company": "epicgames",
-      "location": "Cary,North Carolina,United States",
-      "url": "https://epicgames.com/careers/jobs/6142980004?gh_jid=6142980004",
-      "updated": "2026-10-30T08:52:34-04:00",
+      "id": "telegram:artistsvacancies/63",
+      "title": "Chillbase ищут 3D Environment Artist",
+      "company": "artistsvacancies",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/artistsvacancies/63",
+      "updated": "2024-03-11T12:25:46+00:00",
       "hints": [
-        "Упоминается Россия"
+        "Упоминается удалённая работа"
       ]
     },
     {
-      "id": "greenhouse:riotgames:7271195",
-      "title": "3D Environment Artist - Unpublished R&D Product (Contract)",
-      "company": "riotgames",
-      "location": "Guangzhou, China",
-      "url": "https://www.riotgames.com/en/work-with-us/job/7271195?gh_jid=7271195",
-      "updated": "2026-10-23T04:50:44-04:00",
-      "hints": []
-    },
-    {
-      "id": "greenhouse:riotgames:8282210",
-      "title": "3D Character Artist (Contract)",
-      "company": "riotgames",
-      "location": "Guangzhou, China",
-      "url": "https://www.riotgames.com/en/work-with-us/job/8282210?gh_jid=8282210",
-      "updated": "2026-10-15T05:28:20-04:00",
-      "hints": []
+      "id": "telegram:artistsvacancies/58",
+      "title": "Кефир ищут 3D Environment artist",
+      "company": "artistsvacancies",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/artistsvacancies/58",
+      "updated": "2023-10-03T14:44:57+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
     }
   ],
   "notified": [
@@ -102,6 +194,22 @@
     "greenhouse:epicgames:6142982004",
     "greenhouse:epicgames:6142980004",
     "greenhouse:riotgames:7271195",
-    "greenhouse:riotgames:8282210"
+    "greenhouse:riotgames:8282210",
+    "telegram:rabota_v_gamedeve/10288",
+    "telegram:rabota_v_gamedeve/10280",
+    "telegram:artisthh/1205",
+    "telegram:artisthh/1196",
+    "telegram:artisthh/1195",
+    "telegram:artisthh/1190",
+    "telegram:artisthh/1188",
+    "telegram:job_gamedev/317",
+    "telegram:job_gamedev/312",
+    "telegram:job_gamedev/311",
+    "telegram:job_gamedev/310",
+    "telegram:job_gamedev/307",
+    "telegram:artistsvacancies/76",
+    "telegram:artistsvacancies/73",
+    "telegram:artistsvacancies/63",
+    "telegram:artistsvacancies/58"
   ]
 }
