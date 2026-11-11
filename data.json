@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T14:26:40.642Z",
+  "updatedAt": "2026-11-11T21:56:03.147Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -32,6 +32,38 @@
   "errors": [],
   "notificationError": null,
   "jobs": [
+    {
+      "id": "telegram:rabota_v_gamedeve/10303",
+      "title": "Вакансия: 3D Моделер",
+      "company": "rabota_v_gamedeve",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/rabota_v_gamedeve/10303",
+      "updated": "2026-11-11T17:00:43+00:00",
+      "hints": [
+        "Стилизация",
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:gamemetrics/345",
+      "title": "📎 2D Artist (Key Art / Promo), Gaijin Entertainment",
+      "company": "gamemetrics",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/gamemetrics/345",
+      "updated": "2026-11-11T16:44:25+00:00",
+      "hints": [
+        "Стилизация"
+      ]
+    },
+    {
+      "id": "telegram:cgfreelance/20899",
+      "title": "👋 Привет! Я Пушкарь Виталий, 3D Motion Designer / CG / AI Artist . Уже 3,5 года занимаюсь производством мобильных рекламных креативов и 3D-контента.",
+      "company": "cgfreelance",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cgfreelance/20899",
+      "updated": "2026-11-11T15:37:57+00:00",
+      "hints": []
+    },
     {
       "id": "telegram:Game_Dev_jobs/4030",
       "title": "🚀 2D Character Artist",
@@ -116,24 +148,6 @@
       ]
     },
     {
-      "id": "telegram:cgfreelance/20875",
-      "title": "Environment / Cinematic Artist",
-      "company": "cgfreelance",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/cgfreelance/20875",
-      "updated": "2026-11-10T13:35:32+00:00",
-      "hints": []
-    },
-    {
-      "id": "telegram:cgfreelance/20870",
-      "title": "3D Environment / Level Artist",
-      "company": "cgfreelance",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/cgfreelance/20870",
-      "updated": "2026-11-10T12:49:18+00:00",
-      "hints": []
-    },
-    {
       "id": "telegram:devjobs/12631",
       "title": "Я - Senior 2D & Character Artist | Visual Development | Hands-on Art Lead",
       "company": "devjobs",
@@ -142,17 +156,6 @@
       "updated": "2026-11-10T12:33:38+00:00",
       "hints": [
         "Упоминается удалённая работа"
-      ]
-    },
-    {
-      "id": "telegram:cgfreelance/20869",
-      "title": "Ищем Stylized Environment / Vegetation Artist (ZBrush + Texturing)",
-      "company": "cgfreelance",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/cgfreelance/20869",
-      "updated": "2026-11-10T12:27:15+00:00",
-      "hints": [
-        "Стилизация"
       ]
     },
     {
@@ -217,17 +220,6 @@
       "location": "Условия — в объявлении",
       "url": "https://t.me/jobs_cg/1268",
       "updated": "2026-11-09T06:21:35+00:00",
-      "hints": [
-        "Упоминается удалённая работа"
-      ]
-    },
-    {
-      "id": "telegram:rabota_v_gamedeve/10280",
-      "title": "Вакансия: 3D-моделер",
-      "company": "rabota_v_gamedeve",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/rabota_v_gamedeve/10280",
-      "updated": "2026-11-07T12:07:20+00:00",
       "hints": [
         "Упоминается удалённая работа"
       ]
@@ -792,6 +784,9 @@
     "telegram:jobs_cg/1269",
     "telegram:cgfreelance/20886",
     "telegram:DevZoneGD/3933",
-    "telegram:devjobs/12632"
+    "telegram:devjobs/12632",
+    "telegram:rabota_v_gamedeve/10303",
+    "telegram:gamemetrics/345",
+    "telegram:cgfreelance/20899"
   ]
 }
