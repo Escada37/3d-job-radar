@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T06:13:13.309Z",
+  "updatedAt": "2026-11-11T14:26:40.642Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -32,6 +32,55 @@
   "errors": [],
   "notificationError": null,
   "jobs": [
+    {
+      "id": "telegram:Game_Dev_jobs/4030",
+      "title": "🚀 2D Character Artist",
+      "company": "game_dev_jobs",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/Game_Dev_jobs/4030",
+      "updated": "2026-11-11T12:27:02+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:jobs_cg/1269",
+      "title": "Ищу 3D аниматора персонажей (Cascadeur / Blender)",
+      "company": "jobs_cg",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/jobs_cg/1269",
+      "updated": "2026-11-11T09:10:04+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:cgfreelance/20886",
+      "title": "Ищу 3D аниматора персонажей (Cascadeur / Blender)",
+      "company": "cgfreelance",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cgfreelance/20886",
+      "updated": "2026-11-11T08:58:17+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:DevZoneGD/3933",
+      "title": "🚀 2D Character Artist",
+      "company": "devzonegd",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/DevZoneGD/3933",
+      "updated": "2026-11-11T08:30:44+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:devjobs/12632",
+      "title": "🚀 2D Character Artist",
+      "company": "devjobs",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/devjobs/12632",
+      "updated": "2026-11-11T06:50:47+00:00",
+      "hints": []
+    },
     {
       "id": "telegram:Game_Dev_jobs/4029",
       "title": "Я - Senior 2D & Character Artist | Visual Development | Hands-on Art Lead",
@@ -118,15 +167,6 @@
       ]
     },
     {
-      "id": "telegram:cgfreelance/20866",
-      "title": "Привет! Я — 2D Animator | Motion Designer | AI Creative Artist .",
-      "company": "cgfreelance",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/cgfreelance/20866",
-      "updated": "2026-11-10T09:43:35+00:00",
-      "hints": []
-    },
-    {
       "id": "telegram:Game_Dev_jobs/4027",
       "title": "Команда, работающая над MMO с открытым миром в сеттинге эпохи паруса, усиливает арт-направление и ищет Middle 3D художника.",
       "company": "game_dev_jobs",
@@ -171,15 +211,6 @@
       ]
     },
     {
-      "id": "telegram:cgfreelance/20857",
-      "title": "🎨 2D Artist | Illustrator",
-      "company": "cgfreelance",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/cgfreelance/20857",
-      "updated": "2026-11-09T13:34:34+00:00",
-      "hints": []
-    },
-    {
       "id": "telegram:jobs_cg/1268",
       "title": "🎬 3D Animator (Blender)",
       "company": "jobs_cg",
@@ -187,18 +218,6 @@
       "url": "https://t.me/jobs_cg/1268",
       "updated": "2026-11-09T06:21:35+00:00",
       "hints": [
-        "Упоминается удалённая работа"
-      ]
-    },
-    {
-      "id": "telegram:DevZoneGD/3913",
-      "title": "Вакансия: 2D Artist",
-      "company": "devzonegd",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/DevZoneGD/3913",
-      "updated": "2026-11-07T14:02:28+00:00",
-      "hints": [
-        "Стилизация",
         "Упоминается удалённая работа"
       ]
     },
@@ -447,15 +466,6 @@
       "location": "Условия — в объявлении",
       "url": "https://t.me/cg_worker/881",
       "updated": "2026-09-29T13:39:02+00:00",
-      "hints": []
-    },
-    {
-      "id": "telegram:jobs_cg/1247",
-      "title": "3D Animator / Generalist (Blender)",
-      "company": "jobs_cg",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/jobs_cg/1247",
-      "updated": "2026-09-27T13:26:01+00:00",
       "hints": []
     },
     {
@@ -777,6 +787,11 @@
     "telegram:animator_modeller_2d_3d_job/762",
     "telegram:animator_modeller_2d_3d_job/758",
     "telegram:workingamedev/135",
-    "telegram:Game_Dev_jobs/4029"
+    "telegram:Game_Dev_jobs/4029",
+    "telegram:Game_Dev_jobs/4030",
+    "telegram:jobs_cg/1269",
+    "telegram:cgfreelance/20886",
+    "telegram:DevZoneGD/3933",
+    "telegram:devjobs/12632"
   ]
 }
