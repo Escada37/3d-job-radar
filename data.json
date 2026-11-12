@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T07:07:52.138Z",
+  "updatedAt": "2026-11-12T17:34:56.559Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -32,6 +32,46 @@
   "errors": [],
   "notificationError": null,
   "jobs": [
+    {
+      "id": "telegram:DevZoneGD/3943",
+      "title": "Команда, работающая над MMO с открытым миром в сеттинге эпохи паруса, усиливает арт-направление и ищет Middle 3D художника.",
+      "company": "devzonegd",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/DevZoneGD/3943",
+      "updated": "2026-11-12T14:02:07+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:cgfreelance/20909",
+      "title": "Ищу специалиста для разработки процедурной системы вязкой жидкости на 3D-персонаже (Character FX / Technical Artist).",
+      "company": "cgfreelance",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cgfreelance/20909",
+      "updated": "2026-11-12T12:41:12+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:cg_worker/890",
+      "title": "Вакансия: 3D Художник в инди-студию (Визуальная новелла / RPG)",
+      "company": "cg_worker",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cg_worker/890",
+      "updated": "2026-11-12T12:21:02+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:cg_worker/889",
+      "title": "3D Sculpting Specialist — Full-Time",
+      "company": "cg_worker",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cg_worker/889",
+      "updated": "2026-11-12T08:21:02+00:00",
+      "hints": []
+    },
     {
       "id": "telegram:rabota_v_gamedeve/10303",
       "title": "Вакансия: 3D Моделер",
@@ -213,18 +253,6 @@
       ]
     },
     {
-      "id": "telegram:DevZoneGD/3913",
-      "title": "Вакансия: 2D Artist",
-      "company": "devzonegd",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/DevZoneGD/3913",
-      "updated": "2026-11-07T14:02:28+00:00",
-      "hints": [
-        "Стилизация",
-        "Упоминается удалённая работа"
-      ]
-    },
-    {
       "id": "telegram:Game_Dev_jobs/4024",
       "title": "• Финальная сборка — ИИ-агенты превратили концепты в игровые 3D-сцены, а сам разраб тестил результат.",
       "company": "game_dev_jobs",
@@ -280,17 +308,6 @@
       "location": "Условия — в объявлении",
       "url": "https://t.me/devjobs/12623",
       "updated": "2026-11-05T11:02:51+00:00",
-      "hints": [
-        "Стилизация"
-      ]
-    },
-    {
-      "id": "telegram:GameDev_and_Tech_vacancy/2435",
-      "title": "2D ARTIST",
-      "company": "gamedev_and_tech_vacancy",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/GameDev_and_Tech_vacancy/2435",
-      "updated": "2026-11-05T10:19:19+00:00",
       "hints": [
         "Стилизация"
       ]
@@ -441,17 +458,6 @@
       "hints": []
     },
     {
-      "id": "telegram:gamedevjob/5092",
-      "title": "🔥 Middle Concept Artist 🔥",
-      "company": "gamedevjob",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/gamedevjob/5092",
-      "updated": "2026-10-19T08:32:05+00:00",
-      "hints": [
-        "Упоминается удалённая работа"
-      ]
-    },
-    {
       "id": "telegram:cg_worker/881",
       "title": "🎬 Compositing Artist",
       "company": "cg_worker",
@@ -507,17 +513,6 @@
       "updated": "2026-09-08T15:08:53+00:00",
       "hints": [
         "Стилизация",
-        "Упоминается удалённая работа"
-      ]
-    },
-    {
-      "id": "telegram:cg_worker/866",
-      "title": "🎬 Compositing Artist",
-      "company": "cg_worker",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/cg_worker/866",
-      "updated": "2026-08-26T15:49:13+00:00",
-      "hints": [
         "Упоминается удалённая работа"
       ]
     },
@@ -787,6 +782,10 @@
     "telegram:devjobs/12632",
     "telegram:rabota_v_gamedeve/10303",
     "telegram:gamemetrics/345",
-    "telegram:cgfreelance/20899"
+    "telegram:cgfreelance/20899",
+    "telegram:DevZoneGD/3943",
+    "telegram:cgfreelance/20909",
+    "telegram:cg_worker/890",
+    "telegram:cg_worker/889"
   ]
 }
