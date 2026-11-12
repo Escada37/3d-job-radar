@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T21:56:03.147Z",
+  "updatedAt": "2026-11-12T07:07:52.138Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -125,18 +125,6 @@
       ]
     },
     {
-      "id": "telegram:cgfreelance/20879",
-      "title": "🎨 3D Artist | Stylized Characters & Props | Hand-Painted",
-      "company": "cgfreelance",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/cgfreelance/20879",
-      "updated": "2026-11-10T17:27:11+00:00",
-      "hints": [
-        "Стилизация",
-        "Упоминается удалённая работа"
-      ]
-    },
-    {
       "id": "telegram:gdjobs/3034",
       "title": "🎨 Вакансии геймдев-художников — OfferClaw",
       "company": "gdjobs",
@@ -221,6 +209,18 @@
       "url": "https://t.me/jobs_cg/1268",
       "updated": "2026-11-09T06:21:35+00:00",
       "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:DevZoneGD/3913",
+      "title": "Вакансия: 2D Artist",
+      "company": "devzonegd",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/DevZoneGD/3913",
+      "updated": "2026-11-07T14:02:28+00:00",
+      "hints": [
+        "Стилизация",
         "Упоминается удалённая работа"
       ]
     },
