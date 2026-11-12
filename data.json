@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T17:34:56.559Z",
+  "updatedAt": "2026-11-12T23:37:26.397Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -33,6 +33,15 @@
   "notificationError": null,
   "jobs": [
     {
+      "id": "telegram:cgfreelance/20913",
+      "title": "Меня зовут Кристиан. Я медиа-художник, специализируюсь на создании интерактивных систем, инсталляций и графики в реальном времени.",
+      "company": "cgfreelance",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cgfreelance/20913",
+      "updated": "2026-11-12T21:54:33+00:00",
+      "hints": []
+    },
+    {
       "id": "telegram:DevZoneGD/3943",
       "title": "Команда, работающая над MMO с открытым миром в сеттинге эпохи паруса, усиливает арт-направление и ищет Middle 3D художника.",
       "company": "devzonegd",
@@ -51,17 +60,6 @@
       "url": "https://t.me/cgfreelance/20909",
       "updated": "2026-11-12T12:41:12+00:00",
       "hints": []
-    },
-    {
-      "id": "telegram:cg_worker/890",
-      "title": "Вакансия: 3D Художник в инди-студию (Визуальная новелла / RPG)",
-      "company": "cg_worker",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/cg_worker/890",
-      "updated": "2026-11-12T12:21:02+00:00",
-      "hints": [
-        "Упоминается удалённая работа"
-      ]
     },
     {
       "id": "telegram:cg_worker/889",
@@ -120,17 +118,6 @@
       "location": "Условия — в объявлении",
       "url": "https://t.me/jobs_cg/1269",
       "updated": "2026-11-11T09:10:04+00:00",
-      "hints": [
-        "Упоминается удалённая работа"
-      ]
-    },
-    {
-      "id": "telegram:cgfreelance/20886",
-      "title": "Ищу 3D аниматора персонажей (Cascadeur / Blender)",
-      "company": "cgfreelance",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/cgfreelance/20886",
-      "updated": "2026-11-11T08:58:17+00:00",
       "hints": [
         "Упоминается удалённая работа"
       ]
@@ -786,6 +773,7 @@
     "telegram:DevZoneGD/3943",
     "telegram:cgfreelance/20909",
     "telegram:cg_worker/890",
-    "telegram:cg_worker/889"
+    "telegram:cg_worker/889",
+    "telegram:cgfreelance/20913"
   ]
 }
