@@ -19,6 +19,7 @@ for(const channel of config.channels){
    const date=chunk.match(/<time[^>]+datetime="([^"]+)"/)?.[1];
    if(!post||!raw||!date)continue;
    const description=strip(raw), all=description.toLowerCase();
+   if (!/(?:ваканси|vacanc|\bhiring\b|ищем|ищет|требует(?:ся|уются)|приглаша(?:ем|ет)|нанима(?:ем|ет)|looking for|\bjob\b|\bposition\b|\bapply\b|отклик|зарплат|оплат[аы]|условия|обязанности|требования)/i.test(description)) continue;
    const lines=description.split('\n').map(x=>x.trim()).filter(Boolean), head=lines.slice(0,6).join('\n');
    if (/(?:резюме|\b(?:cv|resume|résumé)\b|ищу\s+(?:работу|проект|команду|заказ|ваканси)|в поиске (?:новых )?(?:проект|работ|заказ|ваканс)|открыт[аы]?\s+к предложениям|(?:^|\n)\s*(?:я\s*[-—:]|меня зовут|обо мне|мой опыт|мои работы))/i.test(head)) continue;
    const firstRole=lines.slice(0,6).find(x=>/(?:2\s*[- ]?[dд]|3\s*[- ]?[dд]|\bui\b|концепт)[^\n]{0,35}(?:artist|художник|модел|model|character|иллюстратор|специалист|generalist|аниматор|animator|sculpt|скульпт|визуализатор)/i.test(x));
