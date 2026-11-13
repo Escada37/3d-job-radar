@@ -19,6 +19,11 @@ for(const channel of config.channels){
    const date=chunk.match(/<time[^>]+datetime="([^"]+)"/)?.[1];
    if(!post||!raw||!date)continue;
    const description=strip(raw), all=description.toLowerCase();
+   const lines=description.split('\n').map(x=>x.trim()).filter(Boolean), head=lines.slice(0,6).join('\n');
+   if (/(?:резюме|\b(?:cv|resume|résumé)\b|ищу\s+(?:работу|проект|команду|заказ|ваканси)|в поиске (?:новых )?(?:проект|работ|заказ|ваканс)|открыт[аы]?\s+к предложениям|(?:^|\n)\s*(?:я\s*[-—:]|меня зовут|обо мне|мой опыт|мои работы))/i.test(head)) continue;
+   const firstRole=lines.slice(0,6).find(x=>/(?:2\s*[- ]?[dд]|3\s*[- ]?[dд]|\bui\b|концепт)[^\n]{0,35}(?:artist|художник|модел|model|character|иллюстратор|специалист|generalist|аниматор|animator|sculpt|скульпт|визуализатор)/i.test(x));
+   if (!firstRole || !/3\s*[- ]?[dд][^\n]{0,35}(?:artist|художник|модел|model|character|специалист|generalist|аниматор|animator|sculpt|скульпт|визуализатор)/i.test(firstRole)) continue;
+   if (firstRole && /(?:2\s*[- ]?[dд]|\bui\b|концепт)[^\n]{0,35}(?:artist|художник|character|иллюстратор)/i.test(firstRole) && !/3\s*[- ]?[dд][^\n]{0,35}(?:artist|художник|модел|model|специалист)/i.test(firstRole)) continue;
    if(!/(?:3\s*д|3\s*d|тр[её]хмерн)/i.test(all) || !/(художник|artist|модел|model|персонаж|character|пропс|prop|окружени|environment|generalist|женералист)/i.test(all)) continue;
    if(!/(стилиз|styliz|stylis|casual|казуал|hand.painted|low.poly|лоу.пол|персонаж|character|пропс|prop|окружени|environment|hard.surface|хард.серф)/i.test(all))continue;
    const title=description.split('\n').map(x=>x.trim()).find(x=>/3\s*[dд]|художник|artist|моделлер/i.test(x)&&x.length>5&&x.length<150) || 'Вакансия для 3D-художника';
