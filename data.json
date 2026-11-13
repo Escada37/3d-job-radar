@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T17:38:48.578Z",
+  "updatedAt": "2026-11-13T17:39:58.658Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -116,24 +116,6 @@
       "hints": [
         "Упоминается удалённая работа"
       ]
-    },
-    {
-      "id": "telegram:Game_Dev_jobs/4024",
-      "title": "• Финальная сборка — ИИ-агенты превратили концепты в игровые 3D-сцены, а сам разраб тестил результат.",
-      "company": "game_dev_jobs",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/Game_Dev_jobs/4024",
-      "updated": "2026-11-05T20:27:05+00:00",
-      "hints": []
-    },
-    {
-      "id": "telegram:devjobs/12626",
-      "title": "• Финальная сборка — ИИ-агенты превратили концепты в игровые 3D-сцены, а сам разраб тестил результат.",
-      "company": "devjobs",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/devjobs/12626",
-      "updated": "2026-11-05T18:43:43+00:00",
-      "hints": []
     },
     {
       "id": "telegram:cg_worker/887",
