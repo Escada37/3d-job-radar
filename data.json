@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T23:31:05.873Z",
+  "updatedAt": "2026-11-14T06:18:50.543Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -102,6 +102,17 @@
       "location": "Условия — в объявлении",
       "url": "https://t.me/jobs_cg/1269",
       "updated": "2026-11-11T09:10:04+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:DevZoneGD/3925",
+      "title": "Вакансия: 3D-моделер",
+      "company": "devzonegd",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/DevZoneGD/3925",
+      "updated": "2026-11-09T14:03:26+00:00",
       "hints": [
         "Упоминается удалённая работа"
       ]
