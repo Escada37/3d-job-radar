@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T06:18:50.543Z",
+  "updatedAt": "2026-11-14T15:48:24.661Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -32,6 +32,40 @@
   "errors": [],
   "notificationError": null,
   "jobs": [
+    {
+      "id": "telegram:rabota_v_gamedeve/10318",
+      "title": "Вакансия: 3Д - Моделлер",
+      "company": "rabota_v_gamedeve",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/rabota_v_gamedeve/10318",
+      "updated": "2026-11-14T15:00:38+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:DevZoneGD/3955",
+      "title": "🔥 KAIF GAMES ищет UI/UX дизайнера и 3D моделлеров зданий и окружения.",
+      "company": "devzonegd",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/DevZoneGD/3955",
+      "updated": "2026-11-14T14:05:27+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:DevZoneGD/3952",
+      "title": "Вакансия: 3D Моделер",
+      "company": "devzonegd",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/DevZoneGD/3952",
+      "updated": "2026-11-14T10:03:44+00:00",
+      "hints": [
+        "Стилизация",
+        "Упоминается удалённая работа"
+      ]
+    },
     {
       "id": "telegram:gamedevjob/5118",
       "title": "🔥 KAIF GAMES ищет UI/UX дизайнера и 3D моделлеров зданий и окружения.",
@@ -102,17 +136,6 @@
       "location": "Условия — в объявлении",
       "url": "https://t.me/jobs_cg/1269",
       "updated": "2026-11-11T09:10:04+00:00",
-      "hints": [
-        "Упоминается удалённая работа"
-      ]
-    },
-    {
-      "id": "telegram:DevZoneGD/3925",
-      "title": "Вакансия: 3D-моделер",
-      "company": "devzonegd",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/DevZoneGD/3925",
-      "updated": "2026-11-09T14:03:26+00:00",
       "hints": [
         "Упоминается удалённая работа"
       ]
@@ -264,18 +287,6 @@
       "url": "https://t.me/artisthh/1190",
       "updated": "2026-05-26T13:47:01+00:00",
       "hints": [
-        "Упоминается удалённая работа"
-      ]
-    },
-    {
-      "id": "telegram:artisthh/1188",
-      "title": "3D Artist (Casual / Stylized)",
-      "company": "artisthh",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/artisthh/1188",
-      "updated": "2026-05-22T14:51:26+00:00",
-      "hints": [
-        "Стилизация",
         "Упоминается удалённая работа"
       ]
     },
@@ -479,6 +490,9 @@
     "telegram:rabota_v_gamedeve/10312",
     "telegram:Game_Dev_jobs/4041",
     "telegram:GameDev_and_Tech_vacancy/2463",
-    "telegram:devjobs/12642"
+    "telegram:devjobs/12642",
+    "telegram:rabota_v_gamedeve/10318",
+    "telegram:DevZoneGD/3955",
+    "telegram:DevZoneGD/3952"
   ]
 }
