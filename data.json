@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T16:20:20.476Z",
+  "updatedAt": "2026-11-15T22:47:47.721Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -32,6 +32,39 @@
   "errors": [],
   "notificationError": null,
   "jobs": [
+    {
+      "id": "telegram:works_gamedev/9611",
+      "title": "🎮 Sperasoft ищет 3D Environment Artist",
+      "company": "works_gamedev",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/works_gamedev/9611",
+      "updated": "2026-11-15T18:13:05+00:00",
+      "hints": [
+        "Стилизация"
+      ]
+    },
+    {
+      "id": "telegram:works_gamedev/9609",
+      "title": "Вакансия: 3D художник",
+      "company": "works_gamedev",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/works_gamedev/9609",
+      "updated": "2026-11-15T18:09:48+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:works_gamedev/9607",
+      "title": "🔥 KAIF GAMES ищет UI/UX дизайнера и 3D моделлеров зданий и окружения.",
+      "company": "works_gamedev",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/works_gamedev/9607",
+      "updated": "2026-11-15T18:09:30+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
     {
       "id": "telegram:cg_worker/892",
       "title": "3D Level Artist / Level Designer — карты, декорации, освещение, атмосфера.",
@@ -503,6 +536,9 @@
     "telegram:rabota_v_gamedeve/10318",
     "telegram:DevZoneGD/3955",
     "telegram:DevZoneGD/3952",
-    "telegram:cg_worker/892"
+    "telegram:cg_worker/892",
+    "telegram:works_gamedev/9611",
+    "telegram:works_gamedev/9609",
+    "telegram:works_gamedev/9607"
   ]
 }
