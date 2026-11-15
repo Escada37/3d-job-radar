@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T06:26:20.046Z",
+  "updatedAt": "2026-11-15T16:20:20.476Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -32,6 +32,15 @@
   "errors": [],
   "notificationError": null,
   "jobs": [
+    {
+      "id": "telegram:cg_worker/892",
+      "title": "3D Level Artist / Level Designer — карты, декорации, освещение, атмосфера.",
+      "company": "cg_worker",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cg_worker/892",
+      "updated": "2026-11-15T08:35:23+00:00",
+      "hints": []
+    },
     {
       "id": "telegram:rabota_v_gamedeve/10318",
       "title": "Вакансия: 3Д - Моделлер",
@@ -493,6 +502,7 @@
     "telegram:devjobs/12642",
     "telegram:rabota_v_gamedeve/10318",
     "telegram:DevZoneGD/3955",
-    "telegram:DevZoneGD/3952"
+    "telegram:DevZoneGD/3952",
+    "telegram:cg_worker/892"
   ]
 }
