@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T06:24:52.205Z",
+  "updatedAt": "2026-11-16T19:34:52.204Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -32,6 +32,66 @@
   "errors": [],
   "notificationError": null,
   "jobs": [
+    {
+      "id": "telegram:cg_worker/893",
+      "title": "Ищем 3D Artist / CGI Generalist на проекты",
+      "company": "cg_worker",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cg_worker/893",
+      "updated": "2026-11-16T15:11:08+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:DevZoneGD/3969",
+      "title": "Вакансия: 3D художник",
+      "company": "devzonegd",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/DevZoneGD/3969",
+      "updated": "2026-11-16T12:03:06+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:ingamejob_art/15763",
+      "title": "Senior 3D Procedural Environment Artist New IP",
+      "company": "ingamejob_art",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/ingamejob_art/15763",
+      "updated": "2026-11-16T10:35:39+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:ingamejob_art/15762",
+      "title": "Principal 3D Environment Artist New IP",
+      "company": "ingamejob_art",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/ingamejob_art/15762",
+      "updated": "2026-11-16T10:31:28+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:ingamejob_art/15761",
+      "title": "3D Character Animator (Maya)",
+      "company": "ingamejob_art",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/ingamejob_art/15761",
+      "updated": "2026-11-16T09:55:00+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:ingamejob_art/15760",
+      "title": "Senior 3D Character Artist (Unity Pipeline)",
+      "company": "ingamejob_art",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/ingamejob_art/15760",
+      "updated": "2026-11-16T09:54:24+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
     {
       "id": "telegram:works_gamedev/9611",
       "title": "🎮 Sperasoft ищет 3D Environment Artist",
@@ -142,15 +202,6 @@
       ]
     },
     {
-      "id": "telegram:cgfreelance/20909",
-      "title": "Ищу специалиста для разработки процедурной системы вязкой жидкости на 3D-персонаже (Character FX / Technical Artist).",
-      "company": "cgfreelance",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/cgfreelance/20909",
-      "updated": "2026-11-12T12:41:12+00:00",
-      "hints": []
-    },
-    {
       "id": "telegram:cg_worker/889",
       "title": "3D Sculpting Specialist — Full-Time",
       "company": "cg_worker",
@@ -158,18 +209,6 @@
       "url": "https://t.me/cg_worker/889",
       "updated": "2026-11-12T08:21:02+00:00",
       "hints": []
-    },
-    {
-      "id": "telegram:rabota_v_gamedeve/10303",
-      "title": "Вакансия: 3D Моделер",
-      "company": "rabota_v_gamedeve",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/rabota_v_gamedeve/10303",
-      "updated": "2026-11-11T17:00:43+00:00",
-      "hints": [
-        "Стилизация",
-        "Упоминается удалённая работа"
-      ]
     },
     {
       "id": "telegram:jobs_cg/1269",
@@ -539,6 +578,12 @@
     "telegram:cg_worker/892",
     "telegram:works_gamedev/9611",
     "telegram:works_gamedev/9609",
-    "telegram:works_gamedev/9607"
+    "telegram:works_gamedev/9607",
+    "telegram:cg_worker/893",
+    "telegram:DevZoneGD/3969",
+    "telegram:ingamejob_art/15763",
+    "telegram:ingamejob_art/15762",
+    "telegram:ingamejob_art/15761",
+    "telegram:ingamejob_art/15760"
   ]
 }
