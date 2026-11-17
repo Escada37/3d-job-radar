@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T03:51:39.987Z",
+  "updatedAt": "2026-11-17T15:58:12.837Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -242,17 +242,6 @@
       "hints": []
     },
     {
-      "id": "telegram:ingamejob_art/15745",
-      "title": "Lead Level Artist (Values Value) Remote",
-      "company": "ingamejob_art",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/ingamejob_art/15745",
-      "updated": "2026-11-05T13:00:24+00:00",
-      "hints": [
-        "Упоминается удалённая работа"
-      ]
-    },
-    {
       "id": "telegram:young_gamedev/1319",
       "title": "Senior Technical Artist (Unity) / Sakura Games ⚡️",
       "company": "young_gamedev",
@@ -284,17 +273,6 @@
       "updated": "2026-10-21T08:13:42+00:00",
       "hints": [
         "Стилизация",
-        "Упоминается удалённая работа"
-      ]
-    },
-    {
-      "id": "telegram:gamedevjob/5096",
-      "title": "📌 Ищем Level 3D Artist’а",
-      "company": "gamedevjob",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/gamedevjob/5096",
-      "updated": "2026-10-20T11:15:22+00:00",
-      "hints": [
         "Упоминается удалённая работа"
       ]
     },
