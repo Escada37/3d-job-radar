@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T11:38:22.287Z",
+  "updatedAt": "2026-11-18T20:29:12.732Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -146,34 +146,12 @@
       ]
     },
     {
-      "id": "telegram:DevZoneGD/3955",
-      "title": "🔥 KAIF GAMES ищет UI/UX дизайнера и 3D моделлеров зданий и окружения.",
-      "company": "devzonegd",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/DevZoneGD/3955",
-      "updated": "2026-11-14T14:05:27+00:00",
-      "hints": [
-        "Упоминается удалённая работа"
-      ]
-    },
-    {
       "id": "telegram:gamedevjob/5118",
       "title": "🔥 KAIF GAMES ищет UI/UX дизайнера и 3D моделлеров зданий и окружения.",
       "company": "gamedevjob",
       "location": "Условия — в объявлении",
       "url": "https://t.me/gamedevjob/5118",
       "updated": "2026-11-13T13:47:35+00:00",
-      "hints": [
-        "Упоминается удалённая работа"
-      ]
-    },
-    {
-      "id": "telegram:rabota_v_gamedeve/10312",
-      "title": "Вакансия: 3D художник",
-      "company": "rabota_v_gamedeve",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/rabota_v_gamedeve/10312",
-      "updated": "2026-11-13T13:00:57+00:00",
       "hints": [
         "Упоминается удалённая работа"
       ]
@@ -228,18 +206,6 @@
       "url": "https://t.me/cg_worker/887",
       "updated": "2026-11-05T15:41:14+00:00",
       "hints": []
-    },
-    {
-      "id": "telegram:young_gamedev/1319",
-      "title": "Senior Technical Artist (Unity) / Sakura Games ⚡️",
-      "company": "young_gamedev",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/young_gamedev/1319",
-      "updated": "2026-11-02T07:04:41+00:00",
-      "hints": [
-        "Стилизация",
-        "Упоминается удалённая работа"
-      ]
     },
     {
       "id": "telegram:gamedevjob/5111",
