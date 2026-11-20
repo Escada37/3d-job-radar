@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T11:35:22.455Z",
+  "updatedAt": "2026-11-20T20:14:05.231Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -30,8 +30,32 @@
     "gamedev_vakansii"
   ],
   "errors": [],
-  "notificationError": null,
+  "notificationError": "Не удалось отправить уведомление. Проверьте секреты и журнал запуска.",
   "jobs": [
+    {
+      "id": "telegram:Game_Dev_jobs/4055",
+      "title": "# 3D Artist / 3D Generalist (Middle+ / Senior)",
+      "company": "game_dev_jobs",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/Game_Dev_jobs/4055",
+      "updated": "2026-11-20T12:23:02+00:00",
+      "hints": [
+        "Стилизация",
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:works_gamedev/9629",
+      "title": "# 3D Artist / 3D Generalist (Middle+ / Senior)",
+      "company": "works_gamedev",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/works_gamedev/9629",
+      "updated": "2026-11-20T12:08:26+00:00",
+      "hints": [
+        "Стилизация",
+        "Упоминается удалённая работа"
+      ]
+    },
     {
       "id": "telegram:devjobs/12656",
       "title": "# 3D Artist / 3D Generalist (Middle+ / Senior)",
@@ -105,28 +129,6 @@
       ]
     },
     {
-      "id": "telegram:works_gamedev/9609",
-      "title": "Вакансия: 3D художник",
-      "company": "works_gamedev",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/works_gamedev/9609",
-      "updated": "2026-11-15T18:09:48+00:00",
-      "hints": [
-        "Упоминается удалённая работа"
-      ]
-    },
-    {
-      "id": "telegram:works_gamedev/9607",
-      "title": "🔥 KAIF GAMES ищет UI/UX дизайнера и 3D моделлеров зданий и окружения.",
-      "company": "works_gamedev",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/works_gamedev/9607",
-      "updated": "2026-11-15T18:09:30+00:00",
-      "hints": [
-        "Упоминается удалённая работа"
-      ]
-    },
-    {
       "id": "telegram:cg_worker/892",
       "title": "3D Level Artist / Level Designer — карты, декорации, освещение, атмосфера.",
       "company": "cg_worker",
@@ -134,17 +136,6 @@
       "url": "https://t.me/cg_worker/892",
       "updated": "2026-11-15T08:35:23+00:00",
       "hints": []
-    },
-    {
-      "id": "telegram:rabota_v_gamedeve/10318",
-      "title": "Вакансия: 3Д - Моделлер",
-      "company": "rabota_v_gamedeve",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/rabota_v_gamedeve/10318",
-      "updated": "2026-11-14T15:00:38+00:00",
-      "hints": [
-        "Упоминается удалённая работа"
-      ]
     },
     {
       "id": "telegram:gamedevjob/5118",
