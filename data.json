@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T02:18:11.739Z",
+  "updatedAt": "2026-11-20T11:35:22.455Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -33,6 +33,18 @@
   "notificationError": null,
   "jobs": [
     {
+      "id": "telegram:devjobs/12656",
+      "title": "# 3D Artist / 3D Generalist (Middle+ / Senior)",
+      "company": "devjobs",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/devjobs/12656",
+      "updated": "2026-11-20T09:01:01+00:00",
+      "hints": [
+        "Стилизация",
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
       "id": "telegram:cg_worker/893",
       "title": "Ищем 3D Artist / CGI Generalist на проекты",
       "company": "cg_worker",
@@ -40,17 +52,6 @@
       "url": "https://t.me/cg_worker/893",
       "updated": "2026-11-16T15:11:08+00:00",
       "hints": []
-    },
-    {
-      "id": "telegram:DevZoneGD/3969",
-      "title": "Вакансия: 3D художник",
-      "company": "devzonegd",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/DevZoneGD/3969",
-      "updated": "2026-11-16T12:03:06+00:00",
-      "hints": [
-        "Упоминается удалённая работа"
-      ]
     },
     {
       "id": "telegram:ingamejob_art/15763",
@@ -516,6 +517,7 @@
     "telegram:ingamejob_art/15763",
     "telegram:ingamejob_art/15762",
     "telegram:ingamejob_art/15761",
-    "telegram:ingamejob_art/15760"
+    "telegram:ingamejob_art/15760",
+    "telegram:devjobs/12656"
   ]
 }
