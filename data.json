@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T20:14:05.231Z",
+  "updatedAt": "2026-11-21T02:12:30.647Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -30,7 +30,7 @@
     "gamedev_vakansii"
   ],
   "errors": [],
-  "notificationError": "Не удалось отправить уведомление. Проверьте секреты и журнал запуска.",
+  "notificationError": null,
   "jobs": [
     {
       "id": "telegram:Game_Dev_jobs/4055",
@@ -115,17 +115,6 @@
       "updated": "2026-11-16T09:54:24+00:00",
       "hints": [
         "Упоминается удалённая работа"
-      ]
-    },
-    {
-      "id": "telegram:works_gamedev/9611",
-      "title": "🎮 Sperasoft ищет 3D Environment Artist",
-      "company": "works_gamedev",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/works_gamedev/9611",
-      "updated": "2026-11-15T18:13:05+00:00",
-      "hints": [
-        "Стилизация"
       ]
     },
     {
@@ -509,6 +498,8 @@
     "telegram:ingamejob_art/15762",
     "telegram:ingamejob_art/15761",
     "telegram:ingamejob_art/15760",
-    "telegram:devjobs/12656"
+    "telegram:devjobs/12656",
+    "telegram:Game_Dev_jobs/4055",
+    "telegram:works_gamedev/9629"
   ]
 }
