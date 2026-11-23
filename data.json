@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T01:40:33.887Z",
+  "updatedAt": "2026-11-23T12:33:03.860Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -32,6 +32,26 @@
   "errors": [],
   "notificationError": null,
   "jobs": [
+    {
+      "id": "telegram:cg_worker/894",
+      "title": "🎬 Ищу 3D-аниматора для YouTube Shorts (постоянная работа)",
+      "company": "cg_worker",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cg_worker/894",
+      "updated": "2026-11-23T08:29:31+00:00",
+      "hints": []
+    },
+    {
+      "id": "telegram:GameDev_and_Tech_vacancy/2496",
+      "title": "3D-художник Roblox · Indigo VC · Remote",
+      "company": "gamedev_and_tech_vacancy",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/GameDev_and_Tech_vacancy/2496",
+      "updated": "2026-11-23T06:10:57+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
     {
       "id": "telegram:DevZoneGD/4014",
       "title": "# 3D Artist / 3D Generalist (Middle+ / Senior)",
@@ -213,17 +233,6 @@
       ]
     },
     {
-      "id": "telegram:gamedevjob/5096",
-      "title": "📌 Ищем Level 3D Artist’а",
-      "company": "gamedevjob",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/gamedevjob/5096",
-      "updated": "2026-10-20T11:15:22+00:00",
-      "hints": [
-        "Упоминается удалённая работа"
-      ]
-    },
-    {
       "id": "telegram:cg_worker/880",
       "title": "ИЩЕМ 3D-СПЕЦИАЛИСТОВ В КОМАНДУ",
       "company": "cg_worker",
@@ -239,15 +248,6 @@
       "location": "Условия — в объявлении",
       "url": "https://t.me/cg_worker/878",
       "updated": "2026-09-22T10:06:02+00:00",
-      "hints": []
-    },
-    {
-      "id": "telegram:cg_worker/870",
-      "title": "3D Animator / Generalist",
-      "company": "cg_worker",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/cg_worker/870",
-      "updated": "2026-09-13T10:00:34+00:00",
       "hints": []
     },
     {
@@ -513,6 +513,8 @@
     "telegram:devjobs/12656",
     "telegram:Game_Dev_jobs/4055",
     "telegram:works_gamedev/9629",
-    "telegram:DevZoneGD/4014"
+    "telegram:DevZoneGD/4014",
+    "telegram:cg_worker/894",
+    "telegram:GameDev_and_Tech_vacancy/2496"
   ]
 }
