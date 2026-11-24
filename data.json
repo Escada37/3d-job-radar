@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T12:33:03.860Z",
+  "updatedAt": "2026-11-24T02:12:19.398Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -32,6 +32,28 @@
   "errors": [],
   "notificationError": null,
   "jobs": [
+    {
+      "id": "telegram:cgfreelance/20971",
+      "title": "GreenFX | 3D Generalist (кино / VFX)",
+      "company": "cgfreelance",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cgfreelance/20971",
+      "updated": "2026-11-23T16:45:06+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:DevZoneGD/4021",
+      "title": "3D-художник Roblox · Indigo VC · Remote",
+      "company": "devzonegd",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/DevZoneGD/4021",
+      "updated": "2026-11-23T14:03:57+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
     {
       "id": "telegram:cg_worker/894",
       "title": "🎬 Ищу 3D-аниматора для YouTube Shorts (постоянная работа)",
@@ -515,6 +537,8 @@
     "telegram:works_gamedev/9629",
     "telegram:DevZoneGD/4014",
     "telegram:cg_worker/894",
-    "telegram:GameDev_and_Tech_vacancy/2496"
+    "telegram:GameDev_and_Tech_vacancy/2496",
+    "telegram:cgfreelance/20971",
+    "telegram:DevZoneGD/4021"
   ]
 }
