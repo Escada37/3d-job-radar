@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T02:12:19.398Z",
+  "updatedAt": "2026-11-24T13:40:19.900Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -32,6 +32,17 @@
   "errors": [],
   "notificationError": null,
   "jobs": [
+    {
+      "id": "telegram:rabota_v_gamedeve/10349",
+      "title": "Вакансия: 3D Моделлер (Clothes)",
+      "company": "rabota_v_gamedeve",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/rabota_v_gamedeve/10349",
+      "updated": "2026-11-24T10:00:43+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
     {
       "id": "telegram:cgfreelance/20971",
       "title": "GreenFX | 3D Generalist (кино / VFX)",
@@ -239,18 +250,6 @@
       "url": "https://t.me/gamedevjob/5111",
       "updated": "2026-10-28T12:41:47+00:00",
       "hints": [
-        "Упоминается удалённая работа"
-      ]
-    },
-    {
-      "id": "telegram:gamedevjob/5099",
-      "title": "🎨 Ведущий 3D-художник (персонажи, окружение, пропсы)",
-      "company": "gamedevjob",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/gamedevjob/5099",
-      "updated": "2026-10-21T08:13:42+00:00",
-      "hints": [
-        "Стилизация",
         "Упоминается удалённая работа"
       ]
     },
@@ -539,6 +538,7 @@
     "telegram:cg_worker/894",
     "telegram:GameDev_and_Tech_vacancy/2496",
     "telegram:cgfreelance/20971",
-    "telegram:DevZoneGD/4021"
+    "telegram:DevZoneGD/4021",
+    "telegram:rabota_v_gamedeve/10349"
   ]
 }
