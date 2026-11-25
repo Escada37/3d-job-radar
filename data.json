@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T08:29:17.668Z",
+  "updatedAt": "2026-11-25T19:14:38.563Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -32,6 +32,17 @@
   "errors": [],
   "notificationError": null,
   "jobs": [
+    {
+      "id": "telegram:cgfreelance/20989",
+      "title": "Вакансия: 3D-аниматор (Roblox / Blender)",
+      "company": "cgfreelance",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cgfreelance/20989",
+      "updated": "2026-11-25T15:51:14+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
     {
       "id": "telegram:GameDev_and_Tech_vacancy/2506",
       "title": "Студия Limbheim - https://limbheim.com/ ищет опытного 3D-аниматора для работы над анимацией боевых сцен и движений персонажей.",
@@ -549,6 +560,7 @@
     "telegram:cgfreelance/20971",
     "telegram:DevZoneGD/4021",
     "telegram:rabota_v_gamedeve/10349",
-    "telegram:GameDev_and_Tech_vacancy/2506"
+    "telegram:GameDev_and_Tech_vacancy/2506",
+    "telegram:cgfreelance/20989"
   ]
 }
