@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T03:32:59.198Z",
+  "updatedAt": "2026-11-26T16:52:19.718Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -32,6 +32,50 @@
   "errors": [],
   "notificationError": null,
   "jobs": [
+    {
+      "id": "telegram:Game_Dev_jobs/4061",
+      "title": "1) Senior 3D-Аниматор",
+      "company": "game_dev_jobs",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/Game_Dev_jobs/4061",
+      "updated": "2026-11-26T12:12:05+00:00",
+      "hints": [
+        "Стилизация"
+      ]
+    },
+    {
+      "id": "telegram:cgfreelance/20994",
+      "title": "1) Senior 3D-Аниматор",
+      "company": "cgfreelance",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cgfreelance/20994",
+      "updated": "2026-11-26T12:01:21+00:00",
+      "hints": [
+        "Стилизация"
+      ]
+    },
+    {
+      "id": "telegram:rabota_v_gamedeve/10356",
+      "title": "Вакансия: 3D-аниматор (Roblox / Blender)",
+      "company": "rabota_v_gamedeve",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/rabota_v_gamedeve/10356",
+      "updated": "2026-11-26T10:03:15+00:00",
+      "hints": [
+        "Упоминается удалённая работа"
+      ]
+    },
+    {
+      "id": "telegram:devjobs/12662",
+      "title": "1) Senior 3D-Аниматор",
+      "company": "devjobs",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/devjobs/12662",
+      "updated": "2026-11-26T07:38:28+00:00",
+      "hints": [
+        "Стилизация"
+      ]
+    },
     {
       "id": "telegram:cgfreelance/20989",
       "title": "Вакансия: 3D-аниматор (Roblox / Blender)",
@@ -561,6 +605,10 @@
     "telegram:DevZoneGD/4021",
     "telegram:rabota_v_gamedeve/10349",
     "telegram:GameDev_and_Tech_vacancy/2506",
-    "telegram:cgfreelance/20989"
+    "telegram:cgfreelance/20989",
+    "telegram:Game_Dev_jobs/4061",
+    "telegram:cgfreelance/20994",
+    "telegram:rabota_v_gamedeve/10356",
+    "telegram:devjobs/12662"
   ]
 }
