@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T12:13:27.142Z",
+  "updatedAt": "2026-11-27T21:21:11.150Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -32,6 +32,18 @@
   "errors": [],
   "notificationError": null,
   "jobs": [
+    {
+      "id": "telegram:gamedevjob/5132",
+      "title": "# 3D Artist / 3D Generalist (Middle+ / Senior)",
+      "company": "gamedevjob",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/gamedevjob/5132",
+      "updated": "2026-11-27T16:59:37+00:00",
+      "hints": [
+        "Стилизация",
+        "Упоминается удалённая работа"
+      ]
+    },
     {
       "id": "telegram:cgfreelance/20999",
       "title": "Ищу 3D-моделлера (Hard Surface / GameDev / WebGL) на поток проектов по технике",
@@ -135,18 +147,6 @@
       "url": "https://t.me/cg_worker/894",
       "updated": "2026-11-23T08:29:31+00:00",
       "hints": []
-    },
-    {
-      "id": "telegram:DevZoneGD/4014",
-      "title": "# 3D Artist / 3D Generalist (Middle+ / Senior)",
-      "company": "devzonegd",
-      "location": "Условия — в объявлении",
-      "url": "https://t.me/DevZoneGD/4014",
-      "updated": "2026-11-22T14:04:34+00:00",
-      "hints": [
-        "Стилизация",
-        "Упоминается удалённая работа"
-      ]
     },
     {
       "id": "telegram:Game_Dev_jobs/4055",
@@ -597,6 +597,7 @@
     "telegram:cgfreelance/20994",
     "telegram:rabota_v_gamedeve/10356",
     "telegram:devjobs/12662",
-    "telegram:cgfreelance/20999"
+    "telegram:cgfreelance/20999",
+    "telegram:gamedevjob/5132"
   ]
 }
