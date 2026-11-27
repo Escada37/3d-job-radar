@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T16:52:19.718Z",
+  "updatedAt": "2026-11-27T01:43:50.084Z",
   "initialized": true,
   "sources": [
     "artisthh",
@@ -32,6 +32,15 @@
   "errors": [],
   "notificationError": null,
   "jobs": [
+    {
+      "id": "telegram:cgfreelance/20999",
+      "title": "Ищу 3D-моделлера (Hard Surface / GameDev / WebGL) на поток проектов по технике",
+      "company": "cgfreelance",
+      "location": "Условия — в объявлении",
+      "url": "https://t.me/cgfreelance/20999",
+      "updated": "2026-11-27T01:19:26+00:00",
+      "hints": []
+    },
     {
       "id": "telegram:Game_Dev_jobs/4061",
       "title": "1) Senior 3D-Аниматор",
@@ -609,6 +618,7 @@
     "telegram:Game_Dev_jobs/4061",
     "telegram:cgfreelance/20994",
     "telegram:rabota_v_gamedeve/10356",
-    "telegram:devjobs/12662"
+    "telegram:devjobs/12662",
+    "telegram:cgfreelance/20999"
   ]
 }
